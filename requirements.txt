@@ -8,4 +8,5 @@ xgboost
 dill
 pickle
 dataclasses
+flask
 -e .
